@@ -1,0 +1,41 @@
+
+
+.textcolor{
+    color: #1877F2;
+    font-weight: 900;
+    font-size: 60px;
+
+}
+.text2color{
+    font-size: 30px;
+    font-weight: bold;
+}
+.centertext{
+    text-align: center;
+}
+.mybackgroundcolor{
+    background-color: #F0F2F5;
+}
+.loginbox{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px gray;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    height: 400px;
+}
+.myinputbox{
+    padding: 20px;
+}
+.myloginbutton{
+    padding: 20px;
+
+}
+.CNA{
+    justify-content: center;
+    margin: auto;
+}
+ 
+
+
+
+
